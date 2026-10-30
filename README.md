@@ -145,7 +145,16 @@ Compatibility with other Minecraft versions and server implementations has not y
 
 ## 📸 Screenshots
 
-Gameplay screenshots showing the generator, crafting recipe, and upgrade GUI will be added soon.
+## 📸 Screenshots
+
+### 💎 Diamond Generator
+![Diamond Generator](generator.png)
+
+### 📦 Automatic Diamond Storage
+![Generator with Chest](generator-with-chest.png)
+
+### 🖥️ Upgrade GUI
+![Upgrade GUI](upgrade-gui.png)
 
 ---
 
